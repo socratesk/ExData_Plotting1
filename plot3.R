@@ -1,6 +1,8 @@
 # Import sqldf library to import data in "SQL-like" manner for given date ranges
 library(sqldf)
 
+# ASSUMPTION: The original data is downloaded from internet, Unipped, and located in the Working Directory "C:\\courses\\4-Exploratory Data Analysis\\Project\\data"
+
 # Set working Directory
 setwd("C:\\courses\\4-Exploratory Data Analysis\\Project\\data")
 
